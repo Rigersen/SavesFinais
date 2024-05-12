@@ -31,7 +31,7 @@ F----------------
 
 G----------------
 []God of War 3
-[]Gravitas
+[*]Gravitas
 [*]GRIS
 []GTA V
 
