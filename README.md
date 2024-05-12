@@ -9,7 +9,7 @@ B----------------
 [*]Braid
 
 C----------------
-[]C.U.B.E 2
+[*]C.U.B.E 2
 []Cube Escapes
 [*]Cuphead
 
@@ -76,7 +76,7 @@ S----------------
 [*]Stardew Valley
 [*]Subnautica
 []Subnautica: Below Zero
-[]Super Chicken Jumper
+[*]Super Chicken Jumper
 [*]Super Mario 64
 []Superliminal
 [*]Supraland
