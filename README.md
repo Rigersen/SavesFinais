@@ -1,143 +1,102 @@
 # SavesFinais
 
-----------PC----------
-
+A----------------
 [*]A Lenda do Herói
 
+B----------------
+[*]Banjo-Kazooie
+[*]Banjo-Tooie
 [*]Braid
 
+C----------------
 [*]C.U.B.E 2
-[ ]Cube Escapes
+[]Cube Escapes
 [*]Cuphead
 
+D----------------
+[]Doki Doki Literature Club
+[]Detroit Become Human
 [*]DMC 1
 [*]DMC 2
 [*]DMC 3
 [*]DMC 4
 [*]DMC 5
-[ ]Doki Doki Literature Club
-[ ]Detroit Become Human
+[*]Donkey Kong 64
 
-[ ]E
 
-[ ]F
 
+E----------------
+
+F----------------
+
+G----------------
+[]God of War 3
 [*]Gravitas
 [*]GRIS
-[ ]GTA V
+[]GTA V
 
+H----------------
 [*]Hades
 [*]Half Life
 [*]Hollow Knight
 
-[ ]I
-[ ]J
-[ ]K
+I----------------
 
+J----------------
+
+K----------------
+
+L----------------
 [*]Little Nightmares
 
-[ ]M
-[ ]N
+M----------------
+[]Majin and the Forsaken Kingdom
+[]Mario vs Donkey kong (ds)
+[]Mario & Luigi: Partners in Time
 
+
+N----------------
+[]New Super Mario Bros (DS)
+
+O----------------
 [*]Outer Wilds
 
+P----------------
+[*]Pokemon FireRed
 [*]Portal
 [*]Portal 2
 
-[ ]Q
+Q----------------
 
+R----------------
 [*]Raft
 
-[ ]Saints Row 4
+S----------------
+[]Saints Row 4
 [*]Stardew Valley
 [*]Subnautica
-[ ]Subnautica: Below Zero
-[ ]Super Chicken Jumper
-
-[ ]T
-[ ]U
-[ ]V
-[ ]W
-[ ]X
-[ ]Y
-[ ]Z
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[ ]Superliminal
+[]Subnautica: Below Zero
+[*]Super Chicken Jumper
+[*]Super Mario 64
+[]Superliminal
 [*]Supraland
 
+T----------------
 [*]The Talos Principle
 [*]The Witness
 [*]Trove
-
-[]Undertale
-
-[ ]We Were Here
-
----------N64----------
-[*]Banjo-Kazooie
-[*]Banjo-Tooie
-
-[*]Donkey Kong 64
-
-[*]Super Mario 64
-[ ]Super Smash Bros Brawl
-
-
-
-----------DS----------
-[ ]Mario vs Donkey kong (ds)
-[*]Mario & Luigi: Partners in Time
-
-[ ]New Super Mario Bros (DS)
-
-
----------GBA----------
-[*]Pokemon FireRed
-
-
-
----------PS3----------
-[ ]God of War 3
-
-[ ]Majin and the Forsaken Kingdom
-
-[ ]Uncharted 1
-[ ]Uncharted 2
-[ ]Uncharted 3
-
-T----------------
-
 []The Room 3
 
 U----------------
-
-
+[]Uncharted 1
+[]Uncharted 2
+[]Uncharted 3
+[]Undertale
 
 V----------------
 
 W----------------
-
+[]We Were Here
 X----------------
 
 Y----------------
@@ -147,32 +106,4 @@ Z----------------
 [*]Zelda Majora's Mask
 [*]Zelda Minish Cap
 [*]Zelda The Wind Waker
-
-
-[ ]A
-[ ]B
-[ ]C
-[ ]D
-[ ]E
-[ ]F
-[ ]G
-[ ]H
-[ ]I
-[ ]J
-[ ]K
-[ ]L
-[ ]M
-[ ]N
-[ ]O
-[ ]P
-[ ]Q
-[ ]R
-[ ]S
-[ ]T
-[ ]U
-[ ]V
-[ ]W
-[ ]X
-[ ]Y
-[ ]Z
 
