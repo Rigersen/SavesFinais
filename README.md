@@ -1,109 +1,118 @@
 # SavesFinais
 
-A----------------
-[*]A Lenda do Herói
+# PC
 
-B----------------
-[*]Banjo-Kazooie
-[*]Banjo-Tooie
-[*]Braid
+### Zerados
 
-C----------------
-[*]C.U.B.E 2
-[]Cube Escapes
-[*]Cuphead
+- [x]  A Lenda do Herói
+- [x]  Braid
+- [x]  C.U.B.E 2
+- [ ]  Cube Escapes
+- [x]  Cuphead
+- [x]  DMC 1
+- [x]  DMC 2
+- [x]  DMC 3
+- [x]  DMC 4
+- [x]  DMC 5
+- [ ]  Doki Doki Literature Club
+- [ ]  Detroit Become Human
+- [x]  Gravitas
+- [x]  GRIS
+- [ ]  GTA V
+- [x]  Hades
+- [x]  Half Life
+- [x]  Hollow Knight
+- [x]  Little Nightmares
+- [x]  Outer Wilds
+- [x]  Portal
+- [x]  Portal 2
+- [x]  Raft
+- [ ]  Saints Row 4
+- [x]  Stardew Valley
+- [x]  Subnautica
+- [ ]  Subnautica: Below Zero
+- [x]  Super Chicken Jumper
+- [ ]  Superliminal
+- [x]  Supralan
+- [ ]  The Room 3
+- [x]  The Talos Principle
+- [x]  The Witness
+- [x]  Trove
+- [ ]  Undertale
+- [ ]  We Were Here
 
-D----------------
-[]Doki Doki Literature Club
-[]Detroit Become Human
-[*]DMC 1
-[*]DMC 2
-[*]DMC 3
-[*]DMC 4
-[*]DMC 5
-[*]Donkey Kong 64
+### Não Zerados
 
+# N64
 
+### Zerados
 
-E----------------
+- [x]  Banjo-Kazooie
+- [x]  Banjo-Tooie
+- [x]  Donkey Kong 64
+- [x]  Super Mario 64
+- [ ]  Super Smash Bros Brawl
+- [x]  Zelda: Ocarina of Time
+- [x]  Zelda: Majora’s Mask
 
-F----------------
+### Não Zerados
 
-G----------------
-[]God of War 3
-[*]Gravitas
-[*]GRIS
-[]GTA V
+- [ ]  Diddy Kong Racing
+- [ ]  Conker’s Bad Fur Day
+- [ ]  Mario Party 1
+- [ ]  Mario Party 2
+- [ ]  Magical Tetris Chalenge
+- [ ]  Yoshi’s Story
 
-H----------------
-[*]Hades
-[*]Half Life
-[*]Hollow Knight
+# DS
 
-I----------------
+### Zerados
 
-J----------------
+- [ ]  Mario vs Donkey Kong Mayhem
+- [x]  Mario & Luigi: Partners in Time
+- [ ]  New Super Mario Bros
 
-K----------------
+### Não Zerados
 
-L----------------
-[*]Little Nightmares
+- [ ]  Mario Vs Sonic
+- [ ]  Super Mario 64 DS
+- [ ]  Mario Kart DS
+- [ ]  Mario Party DS
 
-M----------------
-[]Majin and the Forsaken Kingdom
-[]Mario vs Donkey kong (ds)
-[]Mario & Luigi: Partners in Time
+PS2
+Zerados 
+God of War 3
+Majin and the Forsaken Kingdom
+Uncharted 1
+Uncharted 2
+Uncharted 3
+Não Zerados 
+Ratchet & Clank
+Star Wars: Jango Fett/ BountyHunter
 
+# PS3
 
-N----------------
-[]New Super Mario Bros (DS)
+### Zerados
 
-O----------------
-[*]Outer Wilds
+- [ ]  God of War 3
+- [ ]  Majin and the Forsaken Kingdom
+- [ ]  Uncharted 1
+- [ ]  Uncharted 2
+- [ ]  Uncharted 3
 
-P----------------
-[*]Pokemon FireRed
-[*]Portal
-[*]Portal 2
+### Não Zerados
 
-Q----------------
+- [ ]  Time Crisis 4
+- [ ]  Call of Duty 4
+- [ ]  Spider-man 3
+- [ ]  Gran Turismo 5 Prologue
 
-R----------------
-[*]Raft
+# GBA
 
-S----------------
-[]Saints Row 4
-[*]Stardew Valley
-[*]Subnautica
-[]Subnautica: Below Zero
-[*]Super Chicken Jumper
-[*]Super Mario 64
-[]Superliminal
-[*]Supraland
+### Zerados
 
-T----------------
-[*]The Talos Principle
-[*]The Witness
-[*]Trove
-[]The Room 3
+- [x]  Pokémon FireRed
+- [x]  Zelda Minish Cap
 
-U----------------
-[]Uncharted 1
-[]Uncharted 2
-[]Uncharted 3
-[]Undertale
-
-V----------------
-
-W----------------
-[]We Were Here
-X----------------
-
-Y----------------
-
-Z----------------
-[*]Zelda Ocarina Of Time
-[*]Zelda Majora's Mask
-[*]Zelda Minish Cap
-[*]Zelda The Wind Waker
+### Não Zerados
 
