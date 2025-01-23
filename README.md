@@ -6,8 +6,9 @@
 
 - [x]  A Lenda do Herói
 - [x]  Braid
+- [x]  Celeste
 - [x]  C.U.B.E 2
-- [ ]  Cube Escapes
+- [ ]  Cube Escape
 - [x]  Cuphead
 - [x]  DMC 1
 - [x]  DMC 2
@@ -16,13 +17,19 @@
 - [x]  DMC 5
 - [ ]  Doki Doki Literature Club
 - [ ]  Detroit Become Human
+- [x]  Enigma do Medo
 - [x]  Gravitas
 - [x]  GRIS
-- [ ]  GTA V
+- [x]  GTA V
 - [x]  Hades
 - [x]  Half Life
+- [x]  Half Life 2
+- [x]  Half Life 2: Episode One
+- [x]  Half Life 2: Episode Two
 - [x]  Hollow Knight
 - [x]  Little Nightmares
+- [x]  Minecraft
+- [x]  Notpron
 - [x]  Outer Wilds
 - [x]  Portal
 - [x]  Portal 2
@@ -33,12 +40,13 @@
 - [ ]  Subnautica: Below Zero
 - [x]  Super Chicken Jumper
 - [ ]  Superliminal
-- [x]  Supralan
+- [x]  Supraland
 - [ ]  The Room 3
 - [x]  The Talos Principle
+- [x]  The Talos Principle: Road to Gehenna
 - [x]  The Witness
 - [x]  Trove
-- [ ]  Undertale
+- [x]  Undertale
 - [ ]  We Were Here
 
 ### Não Zerados
@@ -70,7 +78,7 @@
 
 - [ ]  Mario vs Donkey Kong Mayhem
 - [x]  Mario & Luigi: Partners in Time
-- [ ]  New Super Mario Bros
+- [x]  New Super Mario Bros
 
 ### Não Zerados
 
@@ -79,33 +87,26 @@
 - [ ]  Mario Kart DS
 - [ ]  Mario Party DS
 
-PS2
-Zerados 
-God of War 3
-Majin and the Forsaken Kingdom
-Uncharted 1
-Uncharted 2
-Uncharted 3
-Não Zerados 
-Ratchet & Clank
-Star Wars: Jango Fett/ BountyHunter
-
 # PS3
 
 ### Zerados
 
+
 - [ ]  God of War 3
 - [ ]  Majin and the Forsaken Kingdom
+- [ ]  Time Crisis 4
 - [ ]  Uncharted 1
 - [ ]  Uncharted 2
 - [ ]  Uncharted 3
 
 ### Não Zerados
 
-- [ ]  Time Crisis 4
+
 - [ ]  Call of Duty 4
 - [ ]  Spider-man 3
 - [ ]  Gran Turismo 5 Prologue
+- [ ]  Ratchet & Clank
+- [ ]  Star Wars: Jango Fett/ BountyHunter
 
 # GBA
 
